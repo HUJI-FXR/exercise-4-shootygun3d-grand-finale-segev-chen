@@ -1,0 +1,52 @@
+# Blender MTL File: 'cleanscene.blend'
+# Material Count: 5
+
+newmtl Ash_AG_arms_hat_hair.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Ash_AG_arms_hat_hair.png
+
+newmtl Ash_Ketchum
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd PokeTra_Ash_AG.png
+
+newmtl Ash_Ketchum_0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Ash_AG_arms_hat_hair.png
+
+newmtl def_ptrainer_001_col_(2).png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd AG_Ashtrainer_001_col.png
+
+newmtl tr0022_00_AG_obj_col.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tr0022_00_AG_obj_col.png
